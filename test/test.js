@@ -1,4 +1,4 @@
-const smsNotification = require('./../server/index');
+const smsNotification = require('./../sms/index');
 var assert = require('assert');
 let correctParams = {};
 let incorrectParams = {};
