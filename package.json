@@ -1,0 +1,37 @@
+{
+  "name": "@s2a/twilio-sms",
+  "version": "1.0.0",
+  "description": "twilio-sms is a module used to send sms.",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "keywords": [
+    "cloud functions",
+    "sms",
+    "twilio-sms",
+    "sms",
+    "notification"
+  ],
+  "contributors": [
+    {
+      "name": "Khurram Ali",
+      "email": "info@riksof.com"
+    },
+    {
+      "name": "Awais Khan",
+      "email": "info@riksof.com"
+    },
+    {
+      "name": "Anas Ahmed",
+      "email": "info@riksof.com"
+    }
+  ],
+  "peerDependencies": {
+    "twilio": "3.18.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "~1.1.0"
+  }
+}
